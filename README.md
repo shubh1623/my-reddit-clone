@@ -1,2 +1,2 @@
-# a-reddit-clone
-a-reddit-clone
+# my-reddit-clone
+my-reddit-clone
